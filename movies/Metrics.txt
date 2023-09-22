@@ -1,0 +1,156 @@
+=====================================
+Generating metrics for SVD model
+20230405-185738           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.724604  0.115242   0.006316     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-190615           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.724755  0.109406   0.006793     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-190654           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.724804  0.112204   0.006317     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-190728           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.725129  0.123019   0.007649     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-190818           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.721525  0.118018   0.006649     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-190932           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD          0.72463  0.120009   0.006648     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-191001           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD          0.72474  0.148268   0.008976     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-192207           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.725735  0.119992   0.007298     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-192245           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.725133  0.124101   0.006633     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-192431           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.719847   0.11391   0.005985     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-192719           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.725553  0.157091   0.015326     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-194945           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD          0.72564  0.109662      0.006     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-195426           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.720655  0.108045   0.006649     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-200330           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.723064  0.107244    0.00566     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-200403           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.722815   0.10638   0.005316     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-200502           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.724081   0.10656   0.005323     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-200702           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.727469  0.120997   0.006982     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-200745           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD          0.71824  0.146288   0.006317     1642467
+=====================================
+=====================================
+Generating metrics for SVD model
+20230405-201447           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.720923   0.12701   0.006274     1642467
+=====================================
+=====================================
+Generating metrics for NMF model
+20230414-172516           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.721143  0.111457   0.004997     1642483
+NMF         0.832678  0.182309   0.004970      405504
+=====================================
+=====================================
+Generating metrics for NMF model
+20230414-172608           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.722924  0.108042   0.004987     1642483
+NMF         0.845736  0.190482   0.004654      405504
+=====================================
+=====================================
+Generating metrics for NMF model
+20230414-211910           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD          0.72076  0.264702   0.013801     1642483
+NMF          0.82752  0.375663   0.010521      405504
+=====================================
+=====================================
+Generating metrics for NMF model
+20230414-212042           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.726905  0.228861   0.008240     1642483
+NMF         0.832052  0.403914   0.008292      405504
+=====================================
+=====================================
+Generating metrics for NMF model
+20230414-212131           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.725062  0.232122   0.013641     1642483
+NMF         0.840957  0.329339   0.009162      405504
+=====================================
+=====================================
+Generating metrics for NMF model
+20230414-212342           test_rmse  fit_time  test_time  model_size
+Algorithm                                            
+SVD         0.718665  0.239182   0.008150     1642483
+NMF         0.833339  0.336451   0.006317      405504
+=====================================
